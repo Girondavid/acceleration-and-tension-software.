@@ -1,0 +1,5 @@
+﻿  aceleracion y tension.cpp
+C:\Users\DANIEL\Desktop\aceleracion y tension\aceleracion y tension.cpp(13,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\DANIEL\Desktop\aceleracion y tension\aceleracion y tension.cpp(12,39): warning C4101: 'coseno': variable local sin referencia
+C:\Users\DANIEL\Desktop\aceleracion y tension\aceleracion y tension.cpp(12,90): warning C4101: 'o': variable local sin referencia
+  aceleracion y tension.vcxproj -> C:\Users\DANIEL\Desktop\aceleracion y tension\Debug\aceleracion y tension.exe

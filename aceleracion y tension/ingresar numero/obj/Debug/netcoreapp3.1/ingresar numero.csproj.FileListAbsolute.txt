@@ -1,0 +1,13 @@
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\bin\Debug\netcoreapp3.1\ingresar numero.exe
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\bin\Debug\netcoreapp3.1\ingresar numero.deps.json
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\bin\Debug\netcoreapp3.1\ingresar numero.runtimeconfig.json
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\bin\Debug\netcoreapp3.1\ingresar numero.runtimeconfig.dev.json
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\bin\Debug\netcoreapp3.1\ingresar numero.dll
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\bin\Debug\netcoreapp3.1\ingresar numero.pdb
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\obj\Debug\netcoreapp3.1\ingresar numero.csprojAssemblyReference.cache
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\obj\Debug\netcoreapp3.1\ingresar numero.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\obj\Debug\netcoreapp3.1\ingresar numero.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\obj\Debug\netcoreapp3.1\ingresar numero.AssemblyInfo.cs
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\obj\Debug\netcoreapp3.1\ingresar numero.dll
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\obj\Debug\netcoreapp3.1\ingresar numero.pdb
+C:\Users\DANIEL\Desktop\aceleracion y tension\ingresar numero\obj\Debug\netcoreapp3.1\ingresar numero.genruntimeconfig.cache
